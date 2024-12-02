@@ -19,3 +19,6 @@
 # User-specific files ----
 README.html
 inst/doc
+
+# files to ingnore ----
+todo.txt

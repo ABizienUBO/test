@@ -4,3 +4,5 @@
 ^R$
 ^figures$
 ^outputs$
+^.*\.Rproj$
+^\.Rproj\.user$
