@@ -8,11 +8,11 @@
 #
 # Jane Doe <jane.doe@mail.me>
 
-source(here::here("R", "dl_wildfinder_data.R"))
-source(here::here("R", "dl_pantheria_data.R"))
+## Download PanTHERIA database ----
 
-pantheria_path  <- dl_pantheria_data()
-wildfinder_path <- dl_wildfinder_data()
+dl_pantheria_data()
 
-## Génération de la doc ----
-devtools::document()
+
+## Download WWF WildFinder database ----
+
+dl_wildfinder_data()

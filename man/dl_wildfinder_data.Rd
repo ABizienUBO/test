@@ -4,7 +4,7 @@
 \alias{dl_wildfinder_data}
 \title{Opens wildfinder dataset from github}
 \usage{
-dl_wildfinder_data()
+dl_wildfinder_data(overwrite = FALSE)
 }
 \arguments{
 \item{x}{nothing}

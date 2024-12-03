@@ -4,7 +4,7 @@
 \alias{dl_pantheria_data}
 \title{Opens penthera dataset from github}
 \usage{
-dl_pantheria_data()
+dl_pantheria_data(overwrite = FALSE)
 }
 \arguments{
 \item{x}{nothing}
