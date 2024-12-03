@@ -79,3 +79,6 @@ DOI: [10.1890/08-1494.1](https://doi.org/10.1890/08-1494.1)
 
 World Wildlife Fund (2006) WildFinder: Online database of species distributions. 
 Version Jan-06. URL: https://www.worldwildlife.org/pages/wildfinder-database
+
+##Add collaborators
+Nathan and Miléna
