@@ -38,6 +38,10 @@ This project is structured as follow:
 ├─ analyses/                                  # Contains R scripts
 |  └─ download-data.R                         # Script to download raw data
 |
+├─ todo.txt					# Contains an unuseful df
+|
+├─ gitignore.txt					# Contains list of files to be ignored by git
+|
 └─ make.R                                     # Script to setup & run the project
 
 
