@@ -1,4 +1,14 @@
-modification faite par milena sur sa brache 
 
-XCRTYUY7R54ERTY87654DCRYVUB?
 
+<<<<<<< HEAD
+modifications faites par Miléna sur sa branche
+
+=======
+modifications faites par Miléna sur sa branche 
+>>>>>>> origin/dev
+
+
+XCRTYUY7R54ERTY87654DCRYVUB
+
+
+t
